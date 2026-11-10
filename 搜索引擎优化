@@ -1,0 +1,34 @@
+搜索引擎优化
+https://developers.google.com/search/docs/monitor-debug/google-analytics-search-console?hl=zh-cn
+
+使用 Search Console 和 Google Analytics 数据进行搜索引擎优化
+
+将 Search Console 和 Google Analytics 结合使用，可以让您更全面地了解受众群体如何发现和体验您的网站，
+从而帮助您在进行网站搜索引擎优化 (SEO) 时做出更明智的决策。本指南介绍了如何使用 Looker Studio 监控来自
+Search Console 和 Google Analytics 的指标，以图表形式同时查看两种数据，以及排查这两种工具之间存在的数据差异。
+
+
+Google Analytics 和 Search Console 简介
+这两种工具相辅相成，可帮助您更好地了解受众群体以及他们在访问网站前后对网站的体验。
+您可以快速了解网站在 Google 搜索中的表现以及与其他流量来源的关系。
+
+Search Console：提供有关您的网站在 Google 搜索结果中的表现的数据，例如您的网站在搜索结果中显示的次数（展示次数）、
+用户通过 Google 搜索访问您的网站的次数（点击次数）、哪些搜索字词将用户引导至您的网站（查询）等。
+它侧重于用户通过 Google 搜索访问您的网站之前的活动。
+
+Google Analytics：提供有关访问者与您网站的互动的数据，例如他们访问了哪些网页、停留了多长时间以及执行了哪些操作。 
+它还会显示有关受众群体来源的数据，这有助于您衡量流量渠道的效果，例如电子邮件、来自其他网站或社交平台的引荐、付费搜索和自然搜索。
+
+
+
+Google 搜索的工作原理
+
+Google 是一个全自动搜索引擎，会使用名为抓取工具的程序持续浏览网络，以寻找可添加到 Google 索引中的网页。
+通常，您只需将网站发布到网络上即可，无需执行其他操作。事实上，Google 搜索结果中列出的绝大多数网站都是 
+Google 在抓取网页的过程中自动找到并添加的。
+如果您想了解更多内容，可以参阅我们关于 Google 如何发现、抓取和呈现网页的文档。
+
+
+
+
+
