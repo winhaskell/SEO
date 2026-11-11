@@ -1,0 +1,10 @@
+添加 Google Analytics 4 (GA4)
+
+登录 Google Analytics 官网 并创建/选择你的媒体资源（Property）。
+
+进入 管理（Admin）⚙️ ➔ 数据流（Data Streams）➔ Web。
+
+添加你的网址，创建后会获得一个 G-开头的衡量 ID（Measurement ID）（例如：G-XXXXXXXXXX）。
+
+点击 查看代码指南（View tag instructions），复制系统给出的标准 HTML 跟踪代码（Google Tag / gtag.js）。
+
